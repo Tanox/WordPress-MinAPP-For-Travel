@@ -1,5 +1,5 @@
 {
-  "pages":[
+  "pages": [
     "pages/index/index",
     "pages/detail/detail",
     "pages/logs/logs",
@@ -10,9 +10,9 @@
     "pages/rand/rand",
     "pages/about/about"
   ],
-  "window":{
+  "window": {
     "backgroundTextStyle": "dark",
-	  "backgroundColor":"#33993b",
+    "backgroundColor": "#33993b",
     "navigationBarBackgroundColor": "#33993b",
     "navigationBarTitleText": "趣旅行",
     "navigationBarTextStyle": "white"
@@ -54,5 +54,6 @@
     "connectSocket": 10000,
     "uploadFile": 10000,
     "downloadFile": 10000
-  }
+  },
+  "sitemapLocation": "sitemap.json"
 }
