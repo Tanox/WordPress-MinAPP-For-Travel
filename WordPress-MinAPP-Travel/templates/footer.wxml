@@ -9,5 +9,5 @@
  */
  -->
 <template name="Footer">
-<view> © 技术支持：艾码汇</view>
+<view> © Tanox</view>
 </template>
