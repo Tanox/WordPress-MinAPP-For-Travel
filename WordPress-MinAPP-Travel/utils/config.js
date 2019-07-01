@@ -16,8 +16,8 @@ var QRCODEPATH = 'https://' + DOMAIN + '/uploads/qrcode/';		// 二维码目录
 var HOST_URI = 'https://' + DOMAIN + '/wp-json/wp/v2/';
 var HOST_WECHAT = 'https://' + DOMAIN + '/wp-json/wechat/v1/';
 var DOWNLOADDOMAIN = [	// 信任下载域名
-  { id: 1, domain: 'www.imahui.com' },
-  { id: 2, domain: 'demo.imahui.com' }
+  { id: 1, domain: 'tanox.cn' },
+  { id: 2, domain: 'tanox.net' }
 ]
 var INDEXNAVIGATION = [ //首页图标导航，'id' 为导航的Id，可以自定义，'name'为名称，'image'为图标路径，'url' 为跳转页面
   { id: '1', name: '景点', image: '../../images/Attractions.png', url: '../list/list?id=2'},
