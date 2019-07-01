@@ -11,7 +11,7 @@
   padding: 0 24rpx;
   background-color: #fff;
   transition: transform 0.5s;
-  font-family: Heiti SC,Noto SansCJK,Helvetica,Arial,sans-serif;
+  font-family: "Heiti SC,Noto SansCJK,Helvetica,Arial,sans-serif;"
 } 
 .header {
   padding: 50rpx 0;
